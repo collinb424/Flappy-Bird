@@ -1,5 +1,5 @@
 # Flappy Bird
-- This project implements the game Flappy Bird in C, using the gfx graphics library (created by a professor at Notre Dame).
+- This project implements the game Flappy Bird in C, using the gfx graphics library.
 - flappybird.c is the main driver file for the program and contains the primary loop that runs the game.
 - flappyfunc.c contains all the functions necessary for making the game's logic work properly. 
 - flappyfunc.h is the header file that contains the necessary declarations
