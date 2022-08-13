@@ -4,4 +4,4 @@
 - flappyfunc.c contains all the functions necessary for making the game's logic work properly. 
 - flappyfunc.h is the header file that contains the necessary declarations
   and macros.
-- To play, GCC and Xming is required. If these requirements are met, then simply clone this repository and type "make" into the terminal. Then type "./flappybird" for     the game to pop up as a GUI. Press the spacebar to fly the bird and press q to quit.
+- To play, the GCC compiler and the Xming display server are required. If these requirements are met, then simply clone this repository and type "make" into the           terminal. Then type "./flappybird" for the game to pop up as a GUI. Press the spacebar to fly the bird and press q to quit.
